@@ -19,6 +19,7 @@ p{
     color: white;
     font-size: 100%;
 }
+
 .topnav {
     overflow: hidden;
     height: 100%;
@@ -42,6 +43,7 @@ p{
     padding: 17px;
     width: 100px;
     text-decoration: none;
+    font-weight: bold;
 }
 
 .topnav a:hover {
@@ -72,6 +74,44 @@ p{
     height: 32.3em;
     width: 96.4%;
     background-color: #403F3F;
+}
+
+.container {
+    margin-top: 60%;
+    padding-bottom: 35%;
+    text-align: center;
+}
+
+.container-second {
+    padding-bottom: 33%;
+    text-align: center;
+}
+
+.skills {
+    text-align: right;
+    margin-top: 60px;
+}
+
+.flex{
+    display: flex;
+    text-align: left;
+}
+
+.list {
+    font-size: 25px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.contact {
+    font-size: 25px;
+    color: white;
+    margin: 25px;
+}
+
+.red-line {
+    border-left: 3px solid #DD2E2E;
+    height: 190px;
 }
 
 .leftcolumn {   
