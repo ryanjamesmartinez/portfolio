@@ -94,7 +94,7 @@ p{
     }
 }
 
-@media screen and (max-width: 412px) {
+@media screen and (max-width: 500px) {
     .intro {
         position: absolute;
         margin-top: 190px;
