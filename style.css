@@ -99,9 +99,9 @@ p{
         position: absolute;
     }
     h {
-        padding-right: 100px;
+        margin-right: 100px;
     }
     p {
-        padding-right: 100px;
+        margin-right: 100px;
     }
 }
