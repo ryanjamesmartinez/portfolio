@@ -140,4 +140,22 @@ p{
         margin-top: 190px;
         margin-right: 10px;
     }
+
+    .skills {
+        margin-top: 190px;
+        margin-right: 250px;
+    }
+
+    .flex {
+        margin-left: 5%;
+    }
+
+    .list {
+        font-size: 20px;
+    }
+    
+    .contact {
+        font-size: 20px;
+    }
 }
+
