@@ -97,11 +97,7 @@ p{
 @media screen and (max-width: 412px) {
     .intro {
         position: absolute;
-    }
-    h {
-        margin-right: 100px;
-    }
-    p {
+        margin-top: 50px;
         margin-right: 100px;
     }
 }
