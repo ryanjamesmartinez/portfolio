@@ -98,4 +98,10 @@ p{
     .intro {
         position: absolute;
     }
+    .intro h {
+        padding-right: 5px;
+    }
+    .intro p {
+        padding-right: 5px;
+    }
 }
